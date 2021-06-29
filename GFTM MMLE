@@ -1,3 +1,7 @@
+## #~#~#~#~#~#~# ##
+##   GFTM MMLE   ##
+## #~#~#~#~#~#~# ##
+
 gftm_mmle <- function(resp, tlid, model="GFTM", mfit=FALSE,
                       nquad=NULL, qtrunc=c(-4.0, 4.0),
                       itrunc=matrix(c(0.2, 3, -4, 4, -4, 4), nrow=3, ncol=2, byrow=T, 
